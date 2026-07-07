@@ -1,0 +1,29 @@
+{
+  "identifier" : "com.shimondeitel.curtainlog.pro",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.curtainlog.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Pro features",
+          "displayName" : "Curtain & Blind Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.curtainlog.pro",
+      "referenceName" : "Curtain & Blind Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
